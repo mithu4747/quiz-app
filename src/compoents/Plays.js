@@ -10,7 +10,7 @@ const Plays = ({setUsername}) => {
     }
     return (
       <>
-   <img  style={{height:'600px',width:'600px',paddingRight:'100px',bottom:'0px'}} src="https://en.akinator.com/bundles/elokencesite/images/akitudes_670x1096/defi.png?v95" alt="" />
+   <img  style={{height:'640px',width:'700px',bottom:'0px'}} src="https://en.akinator.com/bundles/elokencesite/images/akitudes_670x1096/defi.png?v95" alt="" />
             <div className="start">
             
                 <div className="quiz-game"><h1> Quiz App </h1></div>
